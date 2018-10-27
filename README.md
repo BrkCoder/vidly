@@ -13,6 +13,6 @@ This is a udemy project from the course of Node.js: The Complete Guide to Build 
 5. PUT Method url: /api/genres/:id : update existing genre.
 6. DELETE Method url: /api/genres/:id : delete existing genre.
 
-This project was written with passion and :heart:
+:sunglasses: This project was written with passion and :heart:
 
 
