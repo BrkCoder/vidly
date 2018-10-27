@@ -1,2 +1,3 @@
-# vidly
-vidly udemy application
+# Vidly
+Vidly udemy application.
+Note: Still in early development!
