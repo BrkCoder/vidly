@@ -1,0 +1,35 @@
+{
+  "name": "vidly",
+  "version": "1.0.0",
+  "description": "vidly udemy application",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "nodemon index.js",
+    "prod": "node index.js",
+    "start:windows:dev": "set PORT=4000 && npm run dev",
+    "start:linux:dev": "export PORT=4000 && npm run dev",
+    "start:windows:prod": "set PORT=4000 && npm run prod",
+    "start:linux:prod": "export PORT=4000 && npm run prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrkCoder/vidly.git"
+  },
+  "keywords": [
+    "vidly"
+  ],
+  "author": "Barak Inbal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrkCoder/vidly/issues"
+  },
+  "homepage": "https://github.com/BrkCoder/vidly#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "joi": "^14.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.5"
+  }
+}
