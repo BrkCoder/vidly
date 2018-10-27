@@ -1,7 +1,7 @@
 # Vidly
 Vidly udemy application.
 
-Note: Still in early development!
+#### Note: Still in early development! ####
 
 This is a udemy project from the course of Node.js: The Complete Guide to Build RESTful APIs (2018) by Mosh Hamedani.
 
